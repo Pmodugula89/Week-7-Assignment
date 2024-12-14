@@ -15,7 +15,7 @@ ________________________________________
 Setup Instructions:
 1. Cloning the Repository:
 To clone this repository to your local machine, use the following Git command:
-git clone https://github.com/your-username/project-prioritization.git
+git clone  https://github.com/Pmodugula89/Week-7-Assignment.git
 This command will create a copy of the repository on your local machine.
 
 3. Installing Dependencies:
