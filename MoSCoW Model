@@ -1,5 +1,0 @@
-The MoSCoW model is a prioritization technique that helps in categorizing features or requirements into four categories based on their importance:
-•	Must-Have: Features that are essential and cannot be skipped. These are the core functionalities required for the product to work properly.
-•	Should-Have: Features that are important but not crucial. They can be postponed if necessary but should be included for a better user experience.
-•	Could-Have: Features that are nice to have but not essential. These add extra value but are not critical for the tool’s success.
-•	Won’t-Have: Features that are deemed unnecessary or are not a priority for the current development cycle.
