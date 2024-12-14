@@ -15,11 +15,10 @@ ________________________________________
 Setup Instructions:
 1. Cloning the Repository:
 To clone this repository to your local machine, use the following Git command:
-bash
-Copy code
 git clone https://github.com/your-username/project-prioritization.git
-Replace your-username with your actual GitHub username. This command will create a copy of the repository on your local machine.
-2. Installing Dependencies:
+This command will create a copy of the repository on your local machine.
+
+3. Installing Dependencies:
 This project doesn't require any external dependencies for the MoSCoW prioritization example. However, you may want to set up your environment for tracking and managing tasks. If you plan on extending the project with additional tools or features, follow the installation steps below:
 1.	Install Python (if needed):
 o	Download Python
@@ -27,17 +26,16 @@ o	Follow the installation instructions based on your operating system.
 2.	Install additional dependencies (if required):
 If you plan to extend this project (e.g., integrating with project management tools, creating a web interface), you might want to install additional Python packages.
 You can create a virtual environment and install dependencies using pip:
-bash
-Copy code
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
+
 You can add dependencies to the requirements.txt file as needed.
 ________________________________________
 Project Structure:
 The repository is organized as follows:
-bash
-Copy code
+
 /project-prioritization
 │
 ├── /docs                    # Documentation related to the project
@@ -46,6 +44,7 @@ Copy code
 ├── /assets                  # Images and visuals for the presentation
 ├── README.md                # This file
 └── /src                     # Source code (if applicable)
+
 ________________________________________
 Usage:
 Once you've cloned the repository, you can explore the following:
