@@ -1,0 +1,12 @@
+MoSCoW Model Applied to GitHub:
+1.	Must-Have:
+Version Control and Collaboration Tools are core features necessary for GitHub’s primary function. These are indispensable for version tracking and collaborative development.
+Performance Improvements for Large Repositories are crucial for maintaining usability and performance as GitHub repositories grow.
+2.	Should-Have:
+o	CI/CD Automation (e.g., GitHub Actions) and Security Features (e.g., vulnerability scanning) improve the developer experience but are not as critical as version control and collaboration.
+o	Improved Search Functionality is important for users to efficiently navigate large projects.
+3.	Could-Have:
+o	Mobile App Usability and Integration with Project Management Tools (e.g., Jira) are features that would enhance the user experience but are not as urgent.
+o	File Size Limitations Improvement can be helpful for certain types of projects but is less of a priority for the majority of users.
+4.	Won’t-Have:
+o	Notification Management Features are seen as non-essential and not immediately required for GitHub’s current scope.
