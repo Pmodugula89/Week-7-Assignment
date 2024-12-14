@@ -1,0 +1,6 @@
+Here’s an example of how the MoSCoW prioritization technique has been applied to the project:
+Task/Feature	Priority	Notes
+Authentication System	Must Have	Critical for login and user management.
+User Interface Design	Should Have	Important but can be postponed for later releases.
+Email Notifications	Could Have	Enhances UX but not required for MVP.
+Advanced Analytics	Won't Have	Not necessary for initial release.
